@@ -130,19 +130,14 @@ body {
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>WHAT IS GEOBIOLOGY?</h2>
-        <img src="wordlegeobiology.png" alt="geobiology word art" style="width:100%">
+      <h2>HOW DOES GEOLOGY AND BIOLOGY INTERACT?</h2>
+        <img src="Grand_Prismatic_Spring,_Yellowstone.png" alt="Grand Prismatic Spring" style="width:100%">
     </div>
   </div>
   <div class="container right">
     <div class="content">
 
-      <p>So far this semester we have been studying geology and Earth's lithosphere. But the lithosphere doesn't just exist by itself. 
-          It exists along with the other spheres of the Earth: the Atmosphere, the Hydrosphere, and the Biosphere. When we
-        studied the Water Cycle, we learned about some of the ways that the hydrosphere and atmosphere
-        interact with the lithosphere. Now, we will learn about how the biosphere interacts with the
-        lithosphere. <b>Geobiology is about how life affects geology and how geology affects life.</b></p>
-        <img src="earthsspheres.jpg" alt="Earth's Spheres" style="width:100%">
+      <p>The earliest Life</p>
         <p><i>Photo Credit: nsf.gov</i></p>
     </div>
   </div>
